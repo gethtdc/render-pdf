@@ -1,0 +1,16 @@
+{
+  "name": "@htdc/render-pdf",
+  "version": "0.0.1",
+  "description": "The PDF renderer for HTDC documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdf",
+    "document"
+  ],
+  "homepage": "https://htdc.sadgabi20.dev/",
+  "author": "sadgabi20",
+  "license": "MIT"
+}
